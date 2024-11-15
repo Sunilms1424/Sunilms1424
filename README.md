@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sunil M S</h1>
+<h1 align="center">Hi 👋, I'm Sunil</h1>
 <h3 align="center">Aspiring Cloud and DevOps Engineer with a keen interest in problem-solving and implementing DevOps and cloud solutions. Dedicated and results-driven professional with one year of hands-on experience in the network automation team, optimizing and streamlining IT operations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilms1424&label=Profile%20views&color=0e75b6&style=flat" alt="sunilms1424" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilms1424" alt="sunilms1424" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning **Helm, Ansible**
 
 - 💬 Ask me about **Cloud and DevOps**
 
