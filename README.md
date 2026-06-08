@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilms1424" alt="sunilms1424" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning ** Istio, Kafka **
+- 🌱 I’m currently learning **Kafka **
 
 - 💬 Ask me about **Cloud and DevOps**
 
